@@ -3,9 +3,7 @@
         {
             "name": "Linux",
             "includePath": [
-                "${default}",
-                "/home/lmz/Desktop/github/unpv13e/lib/**",
-                "/home/lmz/Desktop/github/unpv13e/libfree/**"
+                "${default}"
             ],
             "compilerPath": "/usr/bin/gcc",
             "cStandard": "gnu17",
